@@ -1,0 +1,24 @@
+{
+  "name": "creating-schema",
+  "version": "1.0.0",
+  "description": "creating a basic schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioperez25/schema-login.git"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "apollo-server"
+  ],
+  "author": "mariofph@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioperez25/schema-login/issues"
+  },
+  "homepage": "https://github.com/marioperez25/schema-login#readme"
+}
